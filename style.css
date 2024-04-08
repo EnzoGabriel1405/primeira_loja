@@ -40,6 +40,7 @@ main {
 
 footer {
 
+    background-color: rgb(0, 0, 0);
 
 
 
@@ -47,38 +48,60 @@ footer {
 }
 
 h3{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
+h4{
+    color: white;
+}
 .nomenela{
     width: 15%;
 }
 
 .curry{
-    width: 10%;
+    width: 15%;
 }
 
 .precision{
-    width: 10%;
+    width: 15%;
 }
 
 .spawn{
-    width: 10%;
+    width: 15%;
 }
 
 .boladebasquete{
-    width: 10%;
+    width: 15%;
 }
 
 .boladefutebol{
-    width: 10%;
+    width: 15%;
 }
 
 .chuteira{
-    width: 10%;
+    width: 15%;
 }
 
 .rodapélogo{
     width: 10%;
     
 }
+
+.instagram{
+    width: 5%;
+}
+
+.facebook{
+    width: 5%;
+}
+
+.twitter{
+    width: 5%;
+}
+
+
+
+
+
+
+
