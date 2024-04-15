@@ -26,7 +26,7 @@ background-color: #ff0000;
 }
 
 aside {
-
+    background-color: #bb0000;
     grid-area: aside;
 
 }
@@ -58,15 +58,15 @@ h4{
 }
 
 .curry{
-    width: 15%;
+    width: 20%;
 }
 
 .precision{
-    width: 15%;
+    width: 20%;
 }
 
 .spawn{
-    width: 15%;
+    width: 20%;
 }
 
 .boladebasquete{
@@ -78,7 +78,7 @@ h4{
 }
 
 .chuteira{
-    width: 15%;
+    width: 20%;
 }
 
 .rodapélogo{
