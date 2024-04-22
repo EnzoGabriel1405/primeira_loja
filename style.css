@@ -28,11 +28,11 @@ background-color: #ff0000;
 aside {
     background-color: #bb0000;
     grid-area: aside;
-
+    width: 250px;
 }
 
 main {
-
+    
     grid-area: main;
     background-color: #ffffff;
 
@@ -54,7 +54,7 @@ h4{
     color: white;
 }
 .nomenela{
-    width: 15%;
+    width: 20%;
 }
 
 .curry{
